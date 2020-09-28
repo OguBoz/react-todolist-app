@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  max-width: 768px;
+  margin: auto;
+}
+
+.App h1 {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.form {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form input {
+  padding: 7px;
+  border-radius: 7px;
+  min-width: 250px;
+  width: 70%;
+  margin: auto;
+}
